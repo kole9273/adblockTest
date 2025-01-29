@@ -2,8 +2,7 @@
 # Blocking Web Browser Bitcoin Mining
 # This *must* be the first line: 127.0.0.1     localhost   #
 #
-
+127.0.0.1 localhost
 0.0.0.0 1q2w3.fun
 
-#127.0.0.1 localhost
 #::1 localhost #[IPv6]
